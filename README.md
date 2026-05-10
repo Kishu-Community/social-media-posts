@@ -8,6 +8,7 @@ The goal is to keep important posts somewhere the community can inspect, link, d
 
 - [KISHU Buying & Safety Guide 2026](posts/kishu-buying-safety-guide-2026.md)
 - [Short Reddit caption for the buying guide](posts/reddit-buying-guide-caption-2026.md)
+- [Medium draft: What's Happening With the Kishu Community Archive and Rebuild](posts/medium-kishu-community-archive-rebuild-2026.md)
 
 ## Current References
 
