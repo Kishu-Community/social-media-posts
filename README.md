@@ -17,6 +17,7 @@ The goal is to keep important posts somewhere the community can inspect, link, d
 - [Instagram post: Kishu Community Update](posts/instagram-kishu-community-update-2026.md)
 - [Reddit community banner assets](posts/reddit-community-banner-2026.md)
 - [Reddit welcome post and rule cleanup](posts/reddit-welcome-post-and-rules-2026.md)
+- [Reddit user profile assets: u/KishuCommunity](posts/reddit-user-kishucommunity-profile-assets-2026.md)
 
 ## Current References
 
