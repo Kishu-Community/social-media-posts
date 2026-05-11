@@ -15,6 +15,7 @@ The goal is to keep important posts somewhere the community can inspect, link, d
 - [Bluesky post: Kishu Community Update](posts/bluesky-kishu-community-update-2026.md)
 - [Threads post: Kishu Community Update](posts/threads-kishu-community-update-2026.md)
 - [Instagram post: Kishu Community Update](posts/instagram-kishu-community-update-2026.md)
+- [Reddit community banner assets](posts/reddit-community-banner-2026.md)
 
 ## Current References
 
