@@ -14,6 +14,7 @@ The goal is to keep important posts somewhere the community can inspect, link, d
 - [Facebook pinned message replacement](posts/facebook-pinned-message-replacement-2026.md)
 - [Bluesky post: Kishu Community Update](posts/bluesky-kishu-community-update-2026.md)
 - [Threads post: Kishu Community Update](posts/threads-kishu-community-update-2026.md)
+- [Instagram post: Kishu Community Update](posts/instagram-kishu-community-update-2026.md)
 
 ## Current References
 
