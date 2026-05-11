@@ -4,6 +4,10 @@ This repository is a public archive for Kishu Community social media posts, capt
 
 The goal is to keep important posts somewhere the community can inspect, link, diff, and archive instead of relying only on Reddit, X, Telegram, or other platforms that may be edited, deleted, locked, or controlled by older accounts.
 
+## Core Documents
+
+- [Kishu Community Rules](KISHU-COMMUNITY-RULES.md)
+
 ## Current Posts
 
 - [KISHU Buying & Safety Guide 2026](posts/kishu-buying-safety-guide-2026.md)
@@ -18,7 +22,6 @@ The goal is to keep important posts somewhere the community can inspect, link, d
 - [Reddit community banner assets](posts/reddit-community-banner-2026.md)
 - [Reddit welcome post and rule cleanup](posts/reddit-welcome-post-and-rules-2026.md)
 - [Reddit user profile assets: u/KishuCommunity](posts/reddit-user-kishucommunity-profile-assets-2026.md)
-- [Telegram post: Community Rules](posts/telegram-community-rules-2026.md)
 
 ## Current References
 
