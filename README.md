@@ -12,6 +12,7 @@ The goal is to keep important posts somewhere the community can inspect, link, d
 - [CoinMarketCap draft: Kishu Community Archive and Rebuild Update](posts/cmc-kishu-community-archive-update-2026.md)
 - [Facebook post: Kishu Community Update](posts/facebook-kishu-community-update-2026.md)
 - [Facebook pinned message replacement](posts/facebook-pinned-message-replacement-2026.md)
+- [Bluesky post: Kishu Community Update](posts/bluesky-kishu-community-update-2026.md)
 
 ## Current References
 
