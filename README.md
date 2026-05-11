@@ -10,6 +10,8 @@ The goal is to keep important posts somewhere the community can inspect, link, d
 - [Short Reddit caption for the buying guide](posts/reddit-buying-guide-caption-2026.md)
 - [Medium draft: What's Happening With the Kishu Community Archive and Rebuild](posts/medium-kishu-community-archive-rebuild-2026.md)
 - [CoinMarketCap draft: Kishu Community Archive and Rebuild Update](posts/cmc-kishu-community-archive-update-2026.md)
+- [Facebook post: Kishu Community Update](posts/facebook-kishu-community-update-2026.md)
+- [Facebook pinned message replacement](posts/facebook-pinned-message-replacement-2026.md)
 
 ## Current References
 
